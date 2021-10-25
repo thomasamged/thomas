@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main (){
+int s;
+int t;
+cout<<"enter num1";
+cin>>t;
+int y;
+cout<<"enter num2";
+cin>>y;
+s=t+y;
+cout<<s<<endl;
+system("pause");
+return 0;
+}
